@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,9 +6,9 @@
 <body>
     <h2>Triangle Area Calculator</h2>
     <form method="POST">
-        Side 1: <input type="number" name="side1" step="any" required><br>
-        Side 2: <input type="number" name="side2" step="any" required><br>
-        Side 3: <input type="number" name="side3" step="any" required><br>
+        Side 1: <input type="number" name="side1" step="any" required><br><br>
+        Side 2: <input type="number" name="side2" step="any" required><br><br>
+        Side 3: <input type="number" name="side3" step="any" required><br><br>
         <input type="submit" name="calculate" value="Calculate">
     </form>
 
